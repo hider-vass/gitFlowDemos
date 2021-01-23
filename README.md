@@ -1,1 +1,2 @@
 - creacion del proyecto
+- se agrega un nuevo campo 
